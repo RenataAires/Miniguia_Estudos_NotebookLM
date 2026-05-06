@@ -35,16 +35,16 @@ https://support.google.com/notebooklm
 6. SDLC Is Dead: How AI Changed Software Development in 2026
 https://www.groovyweb.co/blog/sdlc-ai-era-software-development-2026
 
-7. How Artificial Intelligence (AI) can transform the Software Development Lifecycle (SDLC)
+8. How Artificial Intelligence (AI) can transform the Software Development Lifecycle (SDLC)
 https://medium.com/@dsbraz/how-artificial-intelligence-ai-can-transform-the-software-development-lifecycle-sdlc-3d63009e3f1b
 
-8. AI in the SDLC
+9. AI in the SDLC
 https://www.ibm.com/think/topics/ai-in-sdlc
 
-9. Prompt Engineering Best Practices 2026
+10. Prompt Engineering Best Practices 2026
 https://thomas-wiegold.com/blog/prompt-engineering-best-practices-2026/
 
-10. AI Prompt Engineering Cheat Sheet for Software Teams (2026 Guide)
+11. AI Prompt Engineering Cheat Sheet for Software Teams (2026 Guide)
 https://codewave.com/insights/ai-prompt-engineering-cheat-sheet/
    
 
